@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 20360,
+                "file_path": "results\\BallSquared_V3_05\\My Behavior\\My Behavior-20360.onnx",
+                "reward": null,
+                "creation_time": 1684863817.453004,
+                "auxillary_file_paths": [
+                    "results\\BallSquared_V3_05\\My Behavior\\My Behavior-20360.pt"
+                ]
+            },
+            {
+                "steps": 49966,
+                "file_path": "results\\BallSquared_V3_05\\My Behavior\\My Behavior-49966.onnx",
+                "reward": null,
+                "creation_time": 1684864549.8874931,
+                "auxillary_file_paths": [
+                    "results\\BallSquared_V3_05\\My Behavior\\My Behavior-49966.pt"
+                ]
+            },
+            {
+                "steps": 200002,
+                "file_path": "results\\BallSquared_V3_05\\My Behavior\\My Behavior-200002.onnx",
+                "reward": 5.577500030398369,
+                "creation_time": 1684867896.6831422,
+                "auxillary_file_paths": [
+                    "results\\BallSquared_V3_05\\My Behavior\\My Behavior-200002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 200002,
+            "file_path": "results\\BallSquared_V3_05\\My Behavior.onnx",
+            "reward": 5.577500030398369,
+            "creation_time": 1684867896.6831422,
+            "auxillary_file_paths": [
+                "results\\BallSquared_V3_05\\My Behavior\\My Behavior-200002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
