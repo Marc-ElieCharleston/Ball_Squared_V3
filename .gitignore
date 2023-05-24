@@ -25,7 +25,8 @@
 
 # Visual Studio cache directory
 .vs/
-/Library/PackageCache/
+
+/Ball_Squared_V3/Library/PackageCache/
 
 # Gradle cache directory
 .gradle/
